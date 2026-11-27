@@ -8,3 +8,7 @@ A simple C++ task management application.
 - Display tasks
 - Delete tasks
 - Complete tasks
+
+## Planned Features
+
+- Edit existing tasks
