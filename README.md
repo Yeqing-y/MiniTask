@@ -1,6 +1,6 @@
 # MiniTask
 
-A simple C++ task management application.
+A console-based C++ task management application.
 
 ## Features
 
